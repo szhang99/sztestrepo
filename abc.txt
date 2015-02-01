@@ -1,5 +1,5 @@
 just a test
 another line
-this is believe to be a working one
+this is BELIEVE to be a working one
 this is the fourth line
 this is the fifth line
